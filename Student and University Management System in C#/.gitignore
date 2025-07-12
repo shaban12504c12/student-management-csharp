@@ -1,0 +1,20 @@
+# Ignore Visual Studio temp files, build results, and
+# user-specific files
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+/bin/
+/obj/
+
+# Visual Studio 2019 config folder
+.vs/
+
+# Others
+*.log
+*.vsidx
+*.db
+*.DS_Store
